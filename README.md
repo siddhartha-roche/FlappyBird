@@ -52,6 +52,5 @@ Welcome to the Flappy Bird Clone! This is a simple and addictive 2D side-scrolli
 - **Game Over Screen:** After the bird dies, you can click Retry to restart the game.
 
 ## Credits:
-- **Game Created By:** Mutyala Siddhartha Koushik
 - **Game Engine:** Unity
 - **Font Used:** TextMeshPro, Liberation Font
